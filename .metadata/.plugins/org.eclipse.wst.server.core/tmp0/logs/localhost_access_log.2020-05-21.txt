@@ -1,0 +1,7 @@
+127.0.0.1 - - [21/May/2020:21:17:53 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [21/May/2020:21:17:59 +0700] "GET /new-javaweb/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/May/2020:21:18:00 +0700] "GET /new-javaweb/trang-chu;jsessionid=5D696D908278354C05C2485AEAA471DB HTTP/1.1" 200 7632
+0:0:0:0:0:0:0:1 - - [21/May/2020:21:18:01 +0700] "GET /new-javaweb/template/web/css/style.css HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [21/May/2020:21:18:01 +0700] "GET /new-javaweb/template/web/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+0:0:0:0:0:0:0:1 - - [21/May/2020:21:18:02 +0700] "GET /new-javaweb/template/web/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 70682
+0:0:0:0:0:0:0:1 - - [21/May/2020:21:18:02 +0700] "GET /new-javaweb/template/web/jquery/jquery.min.js HTTP/1.1" 200 86927

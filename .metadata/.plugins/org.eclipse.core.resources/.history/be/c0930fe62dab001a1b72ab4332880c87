@@ -1,0 +1,5 @@
+package news.laptrinhjavaweb.service;
+
+public interface IRoleService {
+
+}

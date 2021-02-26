@@ -1,0 +1,5 @@
+package news.laptrinhjavaweb.service.impl;
+
+public class RoleService {
+
+}

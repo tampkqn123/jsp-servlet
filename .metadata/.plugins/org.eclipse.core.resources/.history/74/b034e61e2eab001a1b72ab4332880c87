@@ -1,0 +1,11 @@
+package news.laptrinhjavaweb.service;
+
+import java.util.List;
+
+import news.laptrinhjavaweb.model.UserModel;
+
+public interface IRoleService {
+
+	public List<UserModel> findAll();
+	
+}

@@ -1,0 +1,21 @@
+package news.laptrinhjavaweb.controller.admin;
+
+import javax.inject.Inject;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+import com.laptrinhjavaweb.dao.IRoleDAO;
+
+import news.laptrinhjavaweb.service.IUserService;
+@WebServlet(urlPatterns = {"/admin-user"})
+public class UserController extends HttpServlet{
+
+	private static final long serialVersionUID = 1L;
+	
+	@Inject
+	private IUserService userService;
+	
+	@Inject
+	private IRoleDAO roleDAO;
+	
+}

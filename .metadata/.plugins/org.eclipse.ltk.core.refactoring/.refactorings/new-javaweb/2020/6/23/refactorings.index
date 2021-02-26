@@ -1,0 +1,18 @@
+1591104085077	Encapsulate field 'sortName'
+1591104092247	Encapsulate field 'sortBy'
+1591105899287	Encapsulate field 'sortName'
+1591105955767	Encapsulate field 'sortBy'
+1591106100842	Encapsulate field 'sorter'
+1591108508976	Copy file
+1591186808957	Copy compilation unit
+1591186943472	Copy compilation unit
+1591187157136	Delete element
+1591187626885	Delete element
+1591187638376	Copy compilation unit
+1591188055664	Encapsulate field 'role'
+1591275547472	Delete element
+1591276903851	Rename type 'AuthenticationFilter'
+1591282871637	Encapsulate field 'categoryCode'
+1591283369652	Encapsulate field 'alert'
+1591283373826	Encapsulate field 'message'
+1591283378322	Encapsulate field 'type'
